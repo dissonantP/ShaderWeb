@@ -22,7 +22,7 @@
     "@codemirror/legacy-modes": "^6.3.1",
     "@melloware/coloris": "^0.18.0",
     "codemirror": "^6.0.1",
-    "firebase": "^9.17.1",
+    "firebase": "^12.15.0",
     "jquery": "^3.6.3",
     "p5": "^1.6.0",
     "pubsub-js": "^1.9.4"
